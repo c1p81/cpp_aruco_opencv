@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/luca/quincinetto/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/quincinetto.dir/main.cpp.o -c /home/luca/quincinetto/main.cpp",
+  "file": "/home/luca/quincinetto/main.cpp"
+}
+]

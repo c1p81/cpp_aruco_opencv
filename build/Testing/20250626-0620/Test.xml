@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20250626-0620-Experimental"
+	Name="nemo"
+	Generator="ctest-3.25.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="12.2.0"
+	OSName="Linux"
+	Hostname="nemo"
+	OSRelease="6.1.0-37-amd64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Debian 6.1.140-1 (2025-05-22)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="42"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="975"
+	TotalPhysicalMemory="7819"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2990.54"
+	>
+	<Testing>
+		<StartDateTime>Jun 26 08:20 CEST</StartDateTime>
+		<StartTestTime>1750918810</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 26 08:20 CEST</EndDateTime>
+		<EndTestTime>1750918810</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
